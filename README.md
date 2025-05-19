@@ -27,6 +27,7 @@ C -> a
 D -> b
 E -> c
 F -> AD
+
 Masukkan string input: aaabbbcc
 Sample Output 1:
 |a|a|a|b|b|b|c|c|
